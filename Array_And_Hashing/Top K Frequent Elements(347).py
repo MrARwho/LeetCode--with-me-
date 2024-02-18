@@ -40,6 +40,7 @@ class Solution(object):
         for n in nums: 
             count[n] = 1 + count.get(n, 0) #if n is present in the hash then increment by 1 else default 0 
         for n,c in count.items():
+            # n appears c no of times 
             freq[c].append(n) #append the value 'n' at the index 'c'th array 
         
         res = []
