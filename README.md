@@ -25,6 +25,6 @@ Happy Coding! 🚀
 | [Day 7]| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [valid sudoku(36).py](./Array_And_Hashing/valid_sudoku(36).py) |
 | [Day 8]| [Encode and Decode Strings](./Questions/Day_8_Encode_and_Decode_Strings.md) | [Solution 8](./Solutions/Day_8_Encode_and_Decode_Strings.py) |
 | [Day 9| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[Longest Consecutive Sequence(128).py](./Array_And_Hashing/Longest_Consecutive_Sequence(128).py)|
-| [Day 10] | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses(20).py](.Stack/Valid_Parentheses(20).py) |
+| [Day 10] | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses(20).py](./Valid_Parentheses(20).py) |
 | [Day 11] | [Min Stack](https://leetcode.com/problems/min-stack/) | [Min Stack(155).py](./Stack/Min_Stack(155).py) |
 | [Day 12] | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation(150).py](./Stack/Evaluate_Reverse_Polish_Notation(150).py) |
