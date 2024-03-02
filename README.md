@@ -28,3 +28,4 @@ Happy Coding! 🚀
 | [Day 10] | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses(20).py](./Valid_Parentheses(20).py) |
 | [Day 11] | [Min Stack](https://leetcode.com/problems/min-stack/) | [Min Stack(155).py](./Stack/Min_Stack(155).py) |
 | [Day 12] | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation(150).py](./Stack/Evaluate_Reverse_Polish_Notation(150).py) |
+| [Day 13] | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Generate Parentheses](./Stack/Generate_Parentheses(22).py) |
