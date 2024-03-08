@@ -5,7 +5,8 @@ Welcome to my **LeetCode Daily Problem Solving Repository**! In this repository,
 ## Roadmap
 
 I'm following the roadmap provided by [NeetCode](https://neetcode.io/roadmap) for daily problem solving. The roadmap is carefully curated to cover various topics and difficulty levels, helping me enhance my problem-solving skills systematically.
-![image](https://github.com/MrARwho/LeetCode--with-me-/assets/101528224/6672316c-4e45-4bb7-93dd-8d3a82125fb9)
+![image](https://github.com/MrARwho/LeetCode--with-me-/assets/101528224/821d69fb-2a32-4cff-9d7f-19f1f4cec308)
+
 
 
 
