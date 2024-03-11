@@ -34,3 +34,4 @@ Happy Coding! 🚀
 | [Day 14] | [Daily Temperature](https://leetcode.com/problems/daily-temperature/) | [Daily Temperature](./Stack/Daily_Temperatures(739).py) |
 | [Day 16] | [Valid Palindrome](https://leetcode.com/problems/Valid-Palindrome) | [Valid Palindrome](./2_Pointers/Valid_Palindrome(125).py) |
 | [Day 17] | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II](./2_Pointers/Two_Sum_II.py) |
+| [Day 18] | [3Sum](https://leetcode.com/problems/3sum/description/) | [3Sum](./2_Pointers/3Sum(15).py) |
