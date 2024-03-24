@@ -36,3 +36,4 @@ Happy Coding! 🚀
 | [Day 17] | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II](./2_Pointers/Two_Sum_II.py) |
 | [Day 18] | [3Sum](https://leetcode.com/problems/3sum/description/) | [3Sum](./2_Pointers/3Sum(15).py) |
 | [Day 19] | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Container With Most Water](./2_Pointers/Container_With_Most_Water.py) |
+| [Day 20] | [Binary Search](https://leetcode.com/problems/binary-search) | [Binary Search](./2_Pointers/Binary_Search/Binary_Search.py) |
