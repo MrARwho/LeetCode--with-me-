@@ -37,3 +37,4 @@ Happy Coding! 🚀
 | [Day 18] | [3Sum](https://leetcode.com/problems/3sum/description/) | [3Sum](./2_Pointers/3Sum(15).py) |
 | [Day 19] | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Container With Most Water](./2_Pointers/Container_With_Most_Water.py) |
 | [Day 20] | [Binary Search](https://leetcode.com/problems/binary-search) | [Binary Search](./2_Pointers/Binary_Search/Binary_Search.py) |
+| [Day 21] | [Search_a_2D_Matrix](https://leetcode.com/problems/search-a-2D-matrix) | [Search_a_2D_Matrix](./2_Pointers/Binary_Search/Search_a_2D_Matrix.py) |
