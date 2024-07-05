@@ -10,30 +10,33 @@ class ListNode:
         
 class Solution:
     def mergeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        a = deque()
-        temp = ListNode(0)
-        sum = 0
-        currnode = head
-        temp = head
+        currnode = ListNode
+        currnode = head.next
+        sumnode = currnode
+      
+        while(currnode):
+            sum = 0
+            while(currnode.val != 0):
+                    sum+= currnode.val
+                    currnode = currnode.next
+            sumnode.val = sum
+            currnode = currnode.next
+            sumnode.next = currnode
+            sumnode = sumnode.next
+                
+        return head.next
+
+    
+                    
         
-        while currnode != None:
-            # if (currnode.val == 0 and len(a)>0):
-            #     while (len(a)>0):
-            #         sum+=a.pop()
-            #     currnode.val = sum
-            #     sum = 0
-            #     temp.next = currnode
-            if (currnode.val != 0):
-                sum+=currnode.val()
-                temp.next = currnode.next()
-            else :
-                temp.val = sum
-                temp2 = ListNode(0)
-                temp.next = temp2
             
             
     
 
 a = Solution()
-head = ListNode(0,ListNode(3,ListNode(1,ListNode(0))))
-a.mergeNodes(head)
+head = ListNode(1,ListNode(2,ListNode(3,ListNode(0,ListNode(1,ListNode(2,ListNode(0)))))))
+b = ListNode
+b = a.mergeNodes(head)
+while(b):
+    print(b.val)
+
