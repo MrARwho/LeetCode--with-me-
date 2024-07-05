@@ -11,18 +11,25 @@ class ListNode:
 class Solution:
     def mergeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
         a = deque()
-        temp = ListNode()
+        temp = ListNode(0)
         sum = 0
         currnode = head
+        temp = head
         
         while currnode != None:
-            if (currnode.val == 0 and len(a)>0):
-                while (len(a)>0):
-                    sum+=a.pop()
-                currnode.val = sum
-                sum = 0
-                temp = currnode
-                
+            # if (currnode.val == 0 and len(a)>0):
+            #     while (len(a)>0):
+            #         sum+=a.pop()
+            #     currnode.val = sum
+            #     sum = 0
+            #     temp.next = currnode
+            if (currnode.val != 0):
+                sum+=currnode.val()
+                temp.next = currnode.next()
+            else :
+                temp.val = sum
+                temp2 = ListNode(0)
+                temp.next = temp2
             
             
     
