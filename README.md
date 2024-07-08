@@ -39,3 +39,4 @@ Happy Coding! 🚀
 | [Day 20] | [Binary Search](https://leetcode.com/problems/binary-search) | [Binary Search](./2_Pointers/Binary_Search/Binary_Search.py) |
 | [Day 21] | [Search_a_2D_Matrix](https://leetcode.com/problems/search-a-2D-matrix) | [Search_a_2D_Matrix](./2_Pointers/Binary_Search/Search_a_2D_Matrix.py) |
 | [Day 22] | [Koko_Eating_Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Koko_Eating_Bananas](./2_Pointers/Binary_Search/Koko_Eating_Bananas.py) |
+| Daily question | [Daily_Question](https://leetcode.com/problems/) | [Solution](./Daily_Question) |
